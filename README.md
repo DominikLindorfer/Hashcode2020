@@ -28,9 +28,7 @@ and the score function
 
     score /= library signup_time
 
-gives us the library score.
-
-The library with the highest score is added to the solution and we erase each book of the selected library which have not yet been added to the solution. All highest scores have been achieved by varying the score function, e.g. to 
+gives us the library score. The library with the highest score is added to the solution and we erase each book that is scanned in the selec from each other library which has not yet been added to the solution. All highest scores have been achieved by varying the score function, e.g. to 
 
     score = score * score / library signup_time
     
