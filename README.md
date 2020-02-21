@@ -1,4 +1,4 @@
-# Solution to Hashcode2020
+# Solution to Hashcode2020 Qualifying Round
 
 **Individual Scores:**
 
@@ -35,7 +35,7 @@ and the score function
 
 gives us the library score.
 
-The library with the highest score is added to the solution and we erase each book of the selected library which have not yet been added. All highest scores have been achieved by varying the score function, e.g. to 
+The library with the highest score is added to the solution and we erase each book of the selected library which have not yet been added to the solution. All highest scores have been achieved by varying the score function, e.g. to 
 
     score = score * score / library signup_time
     
