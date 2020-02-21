@@ -1,4 +1,4 @@
-# Solution to Hashcode2020 Qualifying Round
+# Solution to Hashcode2020 Qualification Round
 
 **Individual Scores:**
 
