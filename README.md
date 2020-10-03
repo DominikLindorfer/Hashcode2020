@@ -1,4 +1,4 @@
-# Solution to Google Hashcode 2020 Qualification Round
+# Solution to [Google Hashcode](https://codingcompetitions.withgoogle.com/hashcode) 2020 Qualification Round
 
 **Individual Scores:**
 
